@@ -1,0 +1,33 @@
+## 🧩 Example Output
+Please Enter Your First Name: John
+Please Enter Your Last Name: Doe
+
+Tech Store Catalogue:
+
+Wireless Mouse - R150.00
+
+Bluetooth Speaker - R250.00
+
+USB Flash Drive - R100.00
+
+Gaming Keyboard - R500.00
+
+Noise-Cancelling Headphones - R750.00
+
+Smartwatch - R1,200.00
+
+External Hard Drive - R1,000.00
+
+Portable Charger - R300.00
+
+How many items would you like to purchase? (up to 10): 3
+Enter the item number (1-8): 2
+Enter the Quantity: 2
+Enter the item number (1-8): 5
+Enter the Quantity: 1
+Enter the item number (1-8): 6
+Enter the Quantity: 1
+
+Subtotal: R2450.00
+Discount: R367.50
+Final Total: R2082.50
